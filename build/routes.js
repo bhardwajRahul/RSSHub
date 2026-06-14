@@ -42178,8 +42178,7 @@ export default {
       "/gnn/:category?": {
         "path": "/gnn/:category?",
         "categories": [
-          "anime",
-          "popular"
+          "anime"
         ],
         "view": 0,
         "example": "/gamer/gnn/1",
@@ -50990,8 +50989,7 @@ export default {
         "name": "国家统计局 通用",
         "url": "www.stats.gov.cn",
         "categories": [
-          "government",
-          "popular"
+          "government"
         ],
         "maintainers": [
           "bigfei",
@@ -91431,7 +91429,8 @@ export default {
       "/pornstar/:username/:language?/:sort?": {
         "path": "/pornstar/:username/:language?/:sort?",
         "categories": [
-          "multimedia"
+          "multimedia",
+          "popular"
         ],
         "view": 3,
         "example": "/pornhub/pornstar/june-liu/www/mr",
